@@ -9,17 +9,17 @@ function App() {
     <Layout>
         <Header className = "header-col" title="Sukritibhardwaj" scroll>
             <Navigation>
-                <Link to="/aboutme">About Me</Link>
-                <Link to="/Experience">Experience</Link>
-                <Link to="/skills">Skills</Link>
+                <Link to="/landingpage">Home</Link>
+                <Link to="/aboutme">About me</Link>
+                <Link to="/skills">Experience</Link>
                 <Link to="/project">Projects</Link>
             </Navigation>
         </Header>
         <Drawer title="Sukritibhardwaj">
             <Navigation>
-                <Link to="/aboutme">About Me</Link>
-                <Link to="/Experience">Experience</Link>
-                <Link to="/skills">Skills</Link>
+                <Link to="/landingpage">Home</Link>
+                <Link to="/aboutme">About me</Link>
+                <Link to="/skills">Experience</Link>
                 <Link to="/project">Projects</Link>
             </Navigation>
         </Drawer>

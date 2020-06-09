@@ -15,7 +15,7 @@ function App() {
                 <Link to="/project">Projects</Link>
             </Navigation>
         </Header>
-        <Drawer title="title">
+        <Drawer title="Sukritibhardwaj">
             <Navigation>
                 <Link to="/aboutme">About Me</Link>
                 <Link to="/Experience">Experience</Link>

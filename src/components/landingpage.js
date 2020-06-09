@@ -7,8 +7,8 @@ class Landing extends Component {
         <Grid className="landing-grid">
           <Cell col={12}>
             <img
-              src="../image.jpg"
-              alt="avatar"
+              src="https://raw.githubusercontent.com/sukriti1/Sukriti_Bhardwaj/master/image.jpg"
+              alt="my-image"
               className="my-img"
               />
             <div className = "ban">
@@ -20,8 +20,8 @@ class Landing extends Component {
                 <a href = "https://github.com/sukriti1" rel = "noopenner noreferrer" target = "_blank">
                     <i className = "fa fa-github-square" aria-hidden = "true" />
                 </a>
-                <a href = "sukriti1.bhardwaj@gmail.com/" rel = "noopenner noreferrer" target = "_blank">
-                    <i class="fas fa-envelope-open" aria-hidden = "true" />
+                <a href = "mailto:sukriti1.bhardwaj@gmail.com" rel = "noopenner noreferrer" target = "_blank">
+                    <i className="fa fa-envelope" aria-hidden="true"/>
                 </a>
                 </div>
             </div>
